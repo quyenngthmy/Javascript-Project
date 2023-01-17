@@ -1,0 +1,71 @@
+/* font-weight: UltraLight/200 */
+@font-face {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 200;
+    src: local('Helvetica UltraLight'), url("helvetica-neue-ultra-light.ttf") format('truetype');
+}
+@font-face {
+    font-family: 'Helvetica';
+    font-style: italic;
+    font-weight: 200;
+    src: local('Helvetica UltraLight Italic'), url("helvetica-neue-ultra-light-italic.ttf") format('truetype');
+}
+
+/* font-weight: light/300 */
+@font-face {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Helvetica Light'), url("helvetica-neue-light.ttf") format('truetype');
+}
+@font-face {
+    font-family: 'Helvetica';
+    font-style: italic;
+    font-weight: 300;
+    src: local('Helvetica Light Italic'), url("helvetica-neue-light-italic.ttf") format('truetype');
+}
+
+/* font-weight: regular/400 */
+@font-face {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Helvetica Regular'), url("helvetica-neue-regular.ttf") format('truetype');
+}
+@font-face {
+    font-family: 'Helvetica';
+    font-style: italic;
+    font-weight: 400;
+    src: local('Helvetica Regular Italic'), url("helvetica-neue-italic.ttf") format('truetype');
+}
+
+/* font-weight: medium/500 */
+@font-face {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Helvetica Medium'), url("helvetica-neue-medium.ttf") format('truetype');
+}
+
+/* font-weight: Bold/700 */
+@font-face {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Helvetica Bold'), url("helvetica-neue-bold.ttf") format('truetype');
+}
+@font-face {
+    font-family: 'Helvetica';
+    font-style: italic;
+    font-weight: 700;
+    src: local('Helvetica Bold Italic'), url("helvetica-neue-bold-italic.ttf") format('truetype');
+}
+
+/* font-weight: Black/900 */
+@font-face {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 900;
+    src: local('Helvetica Black'), url("helvetica-neue-condensed-black.ttf") format('truetype');
+}

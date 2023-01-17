@@ -1,0 +1,72 @@
+@font-face {
+  font-family: 'TwebIcons-40';
+  src:  url('fonts/TwebIcons-40.eot?shiy1o');
+  src:  url('fonts/TwebIcons-40.eot?shiy1o#iefix') format('embedded-opentype'),
+    url('fonts/TwebIcons-40.ttf?shiy1o') format('truetype'),
+    url('fonts/TwebIcons-40.woff?shiy1o') format('woff'),
+    url('fonts/TwebIcons-40.svg?shiy1o#TwebIcons-40') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="twi-40-"], [class*=" twi-40-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'TwebIcons-40' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.twi-40-back-fill:before {
+  content: "\e900";
+}
+.twi-40-calling-fill:before {
+  content: "\e901";
+}
+.twi-40-close-fill:before {
+  content: "\e902";
+}
+.twi-40-dribbble-fill:before {
+  content: "\e903";
+}
+.twi-40-facebook-fill:before {
+  content: "\e904";
+}
+.twi-40-Location-fill:before {
+  content: "\e905";
+}
+.twi-40-menu-fill:before {
+  content: "\e906";
+}
+.twi-40-messenger-fill:before {
+  content: "\e907";
+}
+.twi-40-next-fill:before {
+  content: "\e908";
+}
+.twi-40-youtube-fill .path1:before {
+  content: "\e909";
+  color: rgb(33, 43, 54);
+}
+.twi-40-youtube-fill .path2:before {
+  content: "\e90a";
+  margin-left: -1.0869140625em;
+  color: rgb(255, 255, 255);
+}
+.twi-40-arrow-left-ine:before {
+  content: "\e90b";
+}
+.twi-40-arrow-righ-line:before {
+  content: "\e90c";
+}
+.twi-40-heart-line:before {
+  content: "\e90d";
+}
