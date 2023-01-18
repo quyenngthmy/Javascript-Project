@@ -95,8 +95,15 @@ module.exports = {
       'base': BasePath
     }),
     new HtmlWebpackPlugin({
-      filename: 'oop.html',
-      template: './src/oop.html',
+      filename: 'sprite-animation.html',
+      template: './src/sprite-animation.html',
+      inject: "body",
+      chunks: ['index'],
+      'base': BasePath
+    }),
+    new HtmlWebpackPlugin({
+      filename: 'parallax.html',
+      template: './src/parallax.html',
       inject: "body",
       chunks: ['index'],
       'base': BasePath

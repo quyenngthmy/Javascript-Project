@@ -1,3 +1,4 @@
 import "../css/index.scss";
 import './mask-image';
-import './oop';
+import './sprite-animation';
+import './parallax';

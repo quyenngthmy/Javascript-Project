@@ -1,0 +1,19 @@
+.sprite-animation {
+    #canvas1 {
+        border: 5px solid black;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 600px;
+        height: 600px;
+    }
+    
+    .controls {
+        @apply absolute z-10 top-14 left-1/2 -translate-x-1/2 text-3xl;
+        select {
+            @apply border border-black py-1 px-2 rounded-md cursor-pointer;
+        }
+       
+    }
+}
